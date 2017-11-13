@@ -1,0 +1,14 @@
+{
+  "name": "lyrebird-api",
+  "version": "0.0.1",
+  "main": "./lib/lyrebird",
+  "repository": "git@github.com:prichey/lyrebird-api.git",
+  "author": "Preston Richey <prestonleerichey@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "./node_modules/.bin/jest"
+  },
+  "dependencies": {
+    "jest": "^21.2.1"
+  }
+}
